@@ -1,0 +1,309 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Assoc - Associations et Asbl</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="fr-BE">
+<meta name="revisit-after" content="7 days">
+<meta name="robots" content="index,follow">
+<meta name="author" content="Eric LAMETTE, Belgium">
+<meta name="Copyright" content="Eric LAMETTE, Belgium">
+<meta name="Language" content="fr">
+<meta name="description" content="Assoc - Associations et Asbl : Introduction au monde des associations et asbl, savoir comment créer une asbl (association sans but lucratif) - La loi, les statuts, les formalités à accomplir, la comptabilité et des liens utiles.">
+<meta name="keywords" content="asbl,association sans but lucratif, asbl loi,assoc,association,association de fait,créer une asbl,créer une association,comptabilité asbl,coopérative,loi,loi asbl,droit,statuts,formalités,comptabilité,associatif,liens,benevole,nomination des administrateurs,benevolat,responsabilité,rédaction des statuts,gestion,dissolution,comptabilité simplifiée,conseil d'administration">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="xfYfDoBUjn57pCJPzuQ-bDbhVKkfMW0tNzt3gZ-mfcA" />
+
+<link rel='stylesheet' href='css/style.css' type='text/css'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9344205726483557",
+    enable_page_level_ads: true
+  });
+</script>
+
+
+	
+	<script type="text/javascript">
+	/* Script by https://stackoverflow.com/ forum message board 
+	   user contributions licensed under cc by-sa 3.0
+	*/
+    function randomLink() {
+
+        // first create an array of links
+        var links = [
+		"http://www.socialsquare.com",
+		"http://www.economia.be",
+		"http://www.laformation.be",
+		"http://www.seekajob.be",	
+		"http://www.lelogement.be",
+		"http://www.ledroit.be",
+		"http://www.lasecu.be"
+        ];
+
+        // then work out the maximum random number size
+        // by counting the number of links in the array
+        var max = (links.length)
+
+        // now generate a random number
+        var randomNumber = Math.floor(Math.random()*max);
+
+        // use that random number to retrieve a link from the array
+        var link = links[randomNumber];
+
+        // change the location of the window object
+        // window.location = "http://" + link;		
+		OpenInNewTab(link);
+    }
+	 // Opens a new tab.
+	function OpenInNewTab(link) {
+		var win = window.open(link,'Assoc.be vous propose de visiter : ','top=600,left=10,width=800,height=300');
+		win.focus();
+	}
+	//randomLink();
+    </script>
+
+
+</head>
+
+<body>
+<div id="search_form" class="search_form">
+				<script>
+						(function() {
+						var cx = '010527364706386398478:rec0g6p7w0m';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+						})();
+				</script>
+				<gcse:search></gcse:search>
+</div>
+<br />
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" class="body_table">
+  <tr>
+    <td colspan="2" valign="top" align="center" bgcolor="#FFFFFF" class="logo">
+	<a href="index.php" title="Assoc - Associations et Asbl : Introduction au monde des associations et asbl, savoir comment créer une asbl (association sans but lucratif) - La loi, les statuts, les formalités à accomplir, la comptabilité et des liens utiles.">
+	<img src="images/logo3.gif" width="425" height="142" border="0" alt="Assoc - Associations et Asbl : Introduction au monde des associations et asbl, savoir comment créer une asbl (association sans but lucratif) - La loi, les statuts, les formalités à accomplir, la comptabilité et des liens utiles."></a>
+	</td>
+  </tr>
+  <tr>
+    <td height="20" colspan="2" valign="top" class="logo_under">&nbsp;&nbsp;</td>
+  </tr>
+<!--  <tr>
+    <td height="20" colspan="2" valign="top" class="menu_td">
+		<div align=right class="menu_td">
+			<a href="index.php?lang=fr">FR</a> - <a href="index.php?lang=eng">ENG</a> 			
+		</div>
+	</td>
+  </tr>
+  <tr>
+-->
+    <td id="td_menu" width="140" height="200" valign="top" class="menu_td">   
+	<div id="main_menu">
+	 <button class="menu_button" onclick="w3_close()">&times;</button>
+         <!-- <br /> -->
+	<!-- {MENU} -->
+	<div class="menu_td">
+	<dl>
+	<dt>Assoc</dt>
+	<dd><a href="index.php?page=accueil">Accueil</a></dd>
+	<dd><a href="index.php?page=liens_referencement">Partenaires</a></dd>
+	<dd><a href="index.php?page=contact">Contact</a></dd>
+	<dd><a href="index.php?page=apropos">A propos</a></dd>
+	<dd>&nbsp;</dd>
+	<dt>Les ASBL</dt>
+	<dd><a href="index.php?page=introduction_aux_asbl">Présentation</a></dd>
+	<dd><a href="index.php?page=loi_des_asbl">La Loi</a></dd>
+	<dd><a href="index.php?page=formalites_pour_les_asbl">Les Formalités</a></dd>
+	<dd><a href="index.php?page=statuts_des_asbl">Les Statuts</a></dd>
+	<dd><a href="index.php?page=tva_et_asbl">La TVA</a></dd>
+	<dd><a href="index.php?page=gestion_des_asbl">La Gestion</a></dd>
+	<dd><a href="index.php?page=membres_des_asbl">Les Membres</a></dd>
+	<dd><a href="index.php?page=personnel_des_asbl">Le Personnel</a></dd>
+	<dd><a href="index.php?page=formations">Les Formations</a></dd>
+	<dd><a href="index.php?page=dissolution_des_asbl">La Dissolution</a></dd>
+	<dd><a href="index.php?page=liens_asbl">Liens</a></dd>
+	<dd>&nbsp;</dd>
+	<dt>Associations de Fait</dt>
+	<dd><a href="index.php?page=introduction_aux_associations_de_fait">Présentation</a></dd>
+	<dd><a href="index.php?page=liens_associations_de_fait">Liens</a></dd>
+	<dd>&nbsp;</dd>
+	<dt>Chômage et Bénévolat</dt>
+	<dd><a href="index.php?page=chomage_et_benevole">Introduction</a></dd>
+	<dd>&nbsp;</dd>
+	<dt>Financements, Subsides et Aides publiques</dt>
+	<dd><a href="index.php?page=subsides">Subventions aux ASBL</a></dd>
+	<dd><a href="index.php?page=crowdfunding">Financement participatif</a></dd>	
+	<dd>&nbsp;</dd>
+	<dt>Outils</dt>
+	<dd><a href="index.php?page=outils_asbl">Ouvrages et Logiciels</a></dd>
+	<dd>&nbsp;</dd>
+	<dt>Emplois</dt>
+	<dd><a href="index.php?page=emplois">Offres d'emplois</a></dd>
+	<dd>&nbsp;</dd>
+	<dt>News</dt>
+	<dd><a href="index.php?page=news">Quelques News</a></dd>
+	<dd>&nbsp;</dd>
+	</dl>
+	</div>	<!-- //{MENU} -->
+	<br />
+	</div>
+    </td>
+    <td id="main_content" width="100%" valign="top" class="body_td">   
+	<button id="openNav" class="menu_button" style="display:none" onclick="w3_open()">&#9776;</button>
+     
+      <table width="100%" border="0" align="left" cellpadding="5" cellspacing="30">
+        <tr>
+          <td valign="top">
+			<!-- CONTENT -->
+
+<h1>Les associations</h1>
+      <p align="center"><em>Art. 27 de  la Constitution Belge</em><br />
+          <br />
+          <strong>Les Belges ont le droit de s'associer; ce droit ne peut &ecirc;tre soumis &agrave;  aucune mesure pr&eacute;ventive.</strong></p>
+      <p align="center"><a href="http://www.senate.be/doc/const_fr.html" target="_blank">http://www.senate.be/doc/const_fr.html</a></p>
+      <p>&nbsp;</p>
+      <p>Vous &ecirc;tes int&eacute;ress&eacute;s par le monde associatif ou simplement curieux de savoir comment cr&eacute;er votre association de collectionneurs de timbres&nbsp;? Ce site se veut &ecirc;tre une porte d&rsquo;entr&eacute;e pour  vous familiariser avec les grandes r&egrave;gles que vous devez imp&eacute;rativement conna&icirc;tre pour cr&eacute;er et g&eacute;rer votre association.</p>
+      <p>Nous vous pr&eacute;sentons donc une  approche limit&eacute;e de la loi sur les associations sans but lucratif (asbl) ainsi que de ce qu&rsquo;est une asbl, de son mode de fonctionnement afin de vous aider à répondre aux questions de savoir comment créer une asbl et comment la gérer. Vous trouverez quelques sources pour compl&eacute;ter votre information dans les rubriques des liens.</p>      
+
+	  
+<!-- SHARE_ITEM --><div class="content_share" id="content_share"><ul class="content_share">		<li class="share_facebook">		<a class="facebook_share" href="https://www.facebook.com/sharer.php?u=https://www.assoc.be/&amp;t=Assoc+-+Associations+et+Asbl" target="_blank">			<img src="images/share/share_facebook-bw.jpg" width="25" height="25">			</a><li>		<li class="share_twitter">			<a class="twitter_share" href="https://twitter.com/share?url=https://www.assoc.be/&amp;text=Assoc+-+Associations+et+Asbl" target="_blank">			<img src="images/share/share_twitter-bw.jpg" width="25" height="25">			</a></li>		<li class="share_linkedin">				<a class="linkedin_share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.assoc.be/&amp;title=Assoc+-+Associations+et+Asbl" target="_blank">			<img src="images/share/share_linkedin-bw.jpg" width="25" height="25">			</a></li>	</ul></div><!-- //SHARE_ITEM -->			<!-- //CONTENT -->
+          </td>
+        </tr>
+      </table>
+
+<!-- GOOGLE -->
+<br />
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 320x100 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-9344205726483557"
+     data-ad-slot="4300705933"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- //GOOGLE -->
+</div>
+	  
+    </td>    
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="bottom_td">
+      <table width="400" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td height="30" class="footer">Eric LAMETTE &copy; 2006-2020 Tous droits réservés</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p align="center">
+<div align="center" class="footer">
+	<div align="center" class="footer_link">
+	
+	<p align="center">
+	<a href="http://www.socialsquare.com" target="_blank" title="Social Square : annuaire Belge Francophone de sites sociaux - Annuaire Psycho-Médico-Social : Information, documentation, actualités, liens, adresses, lectures, vidéos,..."><img src="images/logo_socialsquare.gif" width="140" height="50" border="0" alt="Social Square : annuaire Belge Francophone de sites sociaux - Annuaire Psycho-Médico-Social : Information, documentation, actualités, liens, adresses, lectures, vidéos,..."></a>
+	&nbsp;
+	<a href="http://www.economia.be" target="_blank" title="Economia.be - L'économie sociale sur Economia.be, c'est une introduction au concept, au cadre légal, aux possiblités de ce secteur,..."><img src="images/logo_economia.gif" width="140" height="50" border="0" alt="Economia.be - L'économie sociale sur Economia.be, c'est une introduction au concept, au cadre légal, aux possiblités de ce secteur,..."></a>
+	&nbsp;
+	<a href="http://www.laformation.be" target="_blank" title="La Formation.be - L'Education permanente pour le formation à une citoyenneté active et participative,..."><img src="images/logo_laformation.gif" width="140" height="50" border="0" alt="La Formation.be - L'Education permanente pour le formation à une citoyenneté active et participative,..."></a>
+	&nbsp;
+	<a href="http://www.seekajob.be" target="_blank" title="SeekaJob.be, c'est une introduction à la question des dispositifs d'aides à l'emploi à Bruxelles et en Wallonie,..."><img src="images/logo_seekajob.jpg" width="140" height="50" border="0" alt="SeekaJob.be, c'est une introduction à la question des dispositifs d'aides à l'emploi à Bruxelles et en Wallonie,..."></a>
+	<br />
+	<a href="http://www.lelogement.be" target="_blank" title="LeLogement.be - Le Logement sur LeLogement.be, c'est une introduction à la question du logement, du logement social, des Agences Immobilières Sociales, à Bruxelles et en Wallonie,..."><img src="images/lelogement.jpg" width="140" height="50" border="0" alt="LeLogement.be - Le Logement sur LeLogement.be, c'est une introduction à la question du logement, du logement social, des Agences Immobilières Sociales à Bruxelles et en Wallonie,..."></a>
+	&nbsp;	
+	<a href="http://www.ledroit.be" target="_blank" title="LeDroit - Le Droit sur LeDroit.be, c'est une introduction à la question de la défense des droits à Bruxelles et en Wallonie,..."><img src="images/logo_ledroit2.jpg" width="140" height="50" border="0" alt="LeDroit - Le Droit sur LeDroit.be, c'est une introduction à la question de la défense des droits à Bruxelles et en Wallonie,..."></a>
+	&nbsp;
+	<a href="http://www.lasecu.be" target="_blank" title="LaSécu.be - Une introduction aux droits de la sécurité sociale en Belgique,..."><img src="images/logo_lasecu.jpg" width="140" height="50" border="0" alt="LaSécu.be - Une introduction aux droits de la sécurité sociale en Belgique,..."></a>
+	&nbsp;
+	<a href="https://www.lascience.be" target="_blank" title="LaScience.be - Une introduction aux disciplines scientifiques avec une attention spéciale pour les sciences humaines..."><img src="images/logo_lascience.jpg" width="140" height="50" border="0" alt="LaScience.be - Une introduction aux disciplines scientifiques avec une attention spéciale pour les sciences humaines..."></a>
+	</p>
+	</div>
+
+<br />
+	<div align="center" class="footer_link">
+<a href="http://www.socialsquare.com/index.php?searchword=Associations" target="_blank" rel="nofollow">Associations</a>
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Création d'asbl" target="_blank" rel="nofollow">Création d'asbl</a>
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Gestion d'asbl" target="_blank" rel="nofollow">Gestion d'asbl</a>
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Association sans but lucratif" target="_blank" rel="nofollow">Association sans but lucratif</a> 
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Economie sociale" target="_blank" rel="nofollow">Economie sociale</a> 
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Subsides aux asbl" target="_blank" rel="nofollow">Subsides aux asbl</a> 
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Législation asbl" target="_blank" rel="nofollow">Législation asbl</a>  
+</br>
+<a href="http://www.socialsquare.com/index.php?searchword=Aides aux asbl" target="_blank" rel="nofollow">Aides aux asbl</a>  
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Secteur non-marchand" target="_blank" rel="nofollow">Secteur non-marchand</a>   
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Comptabilité des asbl" target="_blank" rel="nofollow">Comptabilité des asbl</a>   
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Logiciel asbl" target="_blank" rel="nofollow">Logiciel asbl</a>    
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Formations asbl" target="_blank" rel="nofollow">Formations asbl</a>     
+ | 
+<a href="http://www.socialsquare.com/index.php?searchword=Gestion du non-marchand" target="_blank" rel="nofollow">Gestion du non-marchand</a> 
+<br />  
+</div>
+</div>
+<div align="center">
+     <a href="http://www.socialsquare.com" target="_blank" title="Les associations et Asbl (association sans but lucratif) sur Social Square"><img src="images/refsocialsquare2.gif" alt="Les associations et Asbl (association sans but lucratif) sur Social Square" border="0" /></a>
+</div>
+<br />
+<div align="center">
+	<a href="http://www.xiti.com/xiti.asp?s=275366" title="WebAnalytics" target="_top">
+	<script type="text/javascript">
+	<!--
+	Xt_param = 's=275366&p=';
+	try {Xt_r = top.document.referrer;}
+	catch(e) {Xt_r = document.referrer; }
+	Xt_h = new Date();
+	Xt_i = '<img width="39" height="25" border="0" alt="" ';
+	Xt_i += 'src="http://logv32.xiti.com/hit.xiti?'+Xt_param;
+	Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+	if(parseFloat(navigator.appVersion)>=4)
+	{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+	document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
+	//-->
+	</script>
+	<noscript>
+	Mesure d'audience ROI statistique webanalytics par <img width="39" height="25" src="http://logv32.xiti.com/hit.xiti?s=275366&p=" alt="WebAnalytics" />
+	</noscript></a>
+</div>
+
+<div align="center">	
+	<br />
+	<A HREF="http://www.hit-parade.com/hp.asp?site=a660895" TARGET="_top"><IMG SRC="http://loga.hit-parade.com/logohp1.gif?site=a660895" TITLE="Hit-Parade" WIDTH=77 HEIGHT=15 BORDER=0></A> 
+
+</div>
+<br />
+<div align="center" class="footer_link" style="footer_link" >
+</div>
+
+<script>
+<!-- From https://www.w3schools.com/ -->
+function w3_open() {
+  document.getElementById("main_content").style.marginLeft = "25%";
+  document.getElementById("main_menu").style.width = "25%";
+  document.getElementById("main_menu").style.display = "block";
+  document.getElementById("openNav").style.display = 'none';
+}
+function w3_close() {
+  document.getElementById("main_content").style.marginLeft = "0%";
+  document.getElementById("td_menu").style.width = "0%";
+  document.getElementById("main_menu").style.display = "none";
+  document.getElementById("openNav").style.display = "inline-block";
+}
+</script>
+</body>
+</html>
